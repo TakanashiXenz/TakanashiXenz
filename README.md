@@ -70,7 +70,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Next.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat&logo=Next.js)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
 ---
